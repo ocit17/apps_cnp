@@ -1,0 +1,14 @@
+{
+    "name": "simitgroup/phpjasperxml",
+    "description": "PHP WYSIWYG Web/PDF Report Library",
+    "license": "MIT",    
+    "authors": [
+        {
+            "name": "KS Tan",
+            "role": "Developper"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
+}
